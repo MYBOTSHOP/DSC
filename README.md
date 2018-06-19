@@ -25,7 +25,7 @@ ROS Key Features
 * Huge ROS experiences not required
 * Controlling servomotors and reading the values with up to 10hz
 * Group Move implemted - Great for humanoid, quadro.- and hexapod robots
-* Setting positions right out the Terminal
+* Setting positions right out of the Terminal
 
 
 
