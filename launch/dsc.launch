@@ -1,1 +1,4 @@
-
+<launch>
+  <rosparam command="load" file="$(find servo_board)/config/con.yaml" />
+	<node name="servo_test" pkg="servo_board" type="servo_board_node" />
+</launch>
