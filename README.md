@@ -3,7 +3,7 @@
 Raspberry Pi compatible Dynamixel Servo Controllerboard | Arduino Library &amp; Code Examples | ROS Node &amp; Firmware |
 
 The MYBOTSHOP DSC (Dynamixel Servo Controllerboard) is a Raspberry Pi compatible Hat which is based on a Atmega644P uC with Arduino bootloader, Texas Instruments Tri State Buffer for creating a hardware half duplex Interface, and a integrated step down module to supply the DSC and RPi.
-During the development our core themes were creating a easy to use and reliable controllerboard which can be easily be plugged on the GPIO Header of the Raspberry Pi. Furthermore it was also very important creating a ROS Interface which can be easily used from useres which have not so much experiences in ROS and for self developed applications.
+During the development our core themes were creating a easy to use and reliable controllerboard which can be easily be plugged on the GPIO Header of the Raspberry Pi. Furthermore it was also very important creating a ROS Interface which can be easily used from users who have not so much experiences with ROS and who would like to integrate our board to theire applications as fast as possible.
 
 
 Arduino IDE & ROS Node range of functions
