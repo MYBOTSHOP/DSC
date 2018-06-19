@@ -1,0 +1,25 @@
+#####################################################################
+
+DSC_conf.name=MYBOTSHOP DSC
+
+DSC_conf.upload.tool=avrdude
+DSC_conf.upload.protocol=arduino
+DSC_conf.upload.maximum_size=65536
+DSC_conf.upload.maximum_data_size=4096
+DSC_conf.upload.speed=38400
+
+DSC_conf.bootloader.tool=avrdude
+DSC_conf.bootloader.low_fuses=0xFF
+DSC_conf.bootloader.high_fuses=0xDC
+DSC_conf.bootloader.extended_fuses=0xFD
+DSC_conf.bootloader.file=atmega644p/ATmegaBOOT_644P.hex
+DSC_conf.bootloader.unlock_bits=0x3F
+DSC_conf.bootloader.lock_bits=0x0F
+
+DSC_conf.build.mcu=atmega644p
+DSC_conf.build.f_cpu=16000000L
+DSC_conf.build.core=arduino:arduino
+DSC_conf.build.variant=standard
+#DSC_conf.build.variant=serial1
+DSC_conf.build.board=AVR_DSC
+#####################################################################
