@@ -5,7 +5,7 @@
   German Quick Start Guide: https://www.mybotshop.de/DSC
   English Quick Start Guide: https://www.mybotshop.de/DSC_EN
 
-  Please read the manual carfeully before using the DSC.
+  Please read the manual carefully before using the DSC.
 
   modified 10.06.2018
   by MYBOTSHOP.DE
